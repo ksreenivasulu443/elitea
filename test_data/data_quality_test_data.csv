@@ -1,0 +1,9 @@
+customer_id,first_name,last_name,email,phone,address,registration_date,loyalty_points
+C1001,John,Doe,john.doe@example.com,+1-555-123-4567,123 Main St, Anytown, AN 12345,2023-05-15,500
+C1002,Jane,Smith,jane.smith@example.com,+1-555-987-6543,456 Oak Ave, Somewhere, SW 67890,2023-04-01,750
+C1003,Hans,Mueller,hans.mueller@example.de,+49-30-12345678,Hauptstraße 1, 10115 Berlin, Germany,2023-03-10,1000
+C1004,Alice,Johnson,NULL,+1-555-246-8135,789 Pine Rd, Elsewhere, EL 13579,2023-05-20,250
+C1005,Bob,Brown,bob.brown@example,+1-555-369-2580,321 Elm St, Nowhere, NW 97531,2023-05-18,100
+C1006,Carol,Davis,carol.davis@example.com,+1-555-159-7531,654 Cedar Ln, Anyplace, AP 75319,2023/05/16,300
+C1007,David,Wilson,david.wilson@example.com,+1-555-753-9514,987 Birch Ave, Somewhere, SW 15935,2023-05-14,five hundred
+C1,Ed,Lee,ed.lee@example.com,+1-555-951-7532,159 Maple Dr, Anytown, AN 75321,2023-05-13,50
