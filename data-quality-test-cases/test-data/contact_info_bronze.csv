@@ -1,0 +1,6 @@
+Phone,Email,Surname,Birthmonth,Zipcode,City,Update_User,Given Name,City_Prev,Middle Initial
+1234567890,example1@mail.com,SMITH,20230100,12345,New York,user1,JOHN,Brooklyn,J
+0987654321,example2@mail.com,JOHNSON,20230200,54321,Los Angeles,user2,JANE,Hollywood,K
+1122334455,example3@mail.com,WILLIAMS,20230300,67890,Chicago,user3,MICHAEL,Lincoln Park,L
+2233445566,example4@mail.com,BROWN,20230400,98765,Houston,user4,EMILY,River Oaks,M
+3344556677,example5@mail.com,DAVIS,20230500,11223,Phoenix,user5,DAVID,Scottsdale,N
