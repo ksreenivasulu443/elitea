@@ -1,0 +1,10 @@
+email,middle_initial,given_name,primary_street_number_prev,state_prev,primary_street_name_prev,state,city_prev,zipcode_prev
+john.doe@example.com,A,John,123,IL,Main St,IL,Springfield,62701
+jane.smith@example.com,B,Jane,456,IL,Elm St,IL,Chicago,60601
+alice.johnson@example.com,C,Alice,789,IL,Oak St,IL,Naperville,60540
+bob.brown@com,D,Bob,123,IL,Main St,IL,Springfield,62701
+charlie.davis@example.com,,Charlie,456,IL,Elm St,IL,Chicago,60601
+david.evans@example.com,E,David,789,IL,Oak St,IL,Naperville,6054A
+foster@example.com,F,,123,IL,Main St,IL,Springfield,62701
+emily.green@example.com,G,Emily,456,IL,Elm St,ZZ,Chicago,60601
+frank.harris@example.com,H,Frank,987,IL,,IL,Naperville,60540
